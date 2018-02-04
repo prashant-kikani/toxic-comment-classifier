@@ -10,6 +10,7 @@ I have gave training for these 6 type of toxic comments : <br/>
 6. identity_hate<br/>
 <br/>
 It predicts <b>probability of toxicity</b> for above defined classes. <br/>
+A comment may be classified in one or more classes. As for example a comment may be "insulting" to someone but may not be "threatning".<br/><br/>
 Download train/test data from here : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data <br/>
 <br/>
 
