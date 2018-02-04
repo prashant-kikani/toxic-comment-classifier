@@ -13,4 +13,6 @@ It predicts <b>probability of toxicity</b> for above defined classes. <br/>
 Download train/test data from here : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data <br/>
 <br/>
 
-We can do this task on any given chunk of data. We can pick the highest probability class to choose the type of toxicity.
+We can do this task on any given chunk of data. We can pick the highest probability class to choose the type of toxicity.<br/>
+
+Have a look at https://github.com/prashant-kikani/toxic-comment-classifier/blob/master/test.ipynb to get the clear idea.<br/>
