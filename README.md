@@ -9,7 +9,7 @@ I have gave training for these 6 type of toxic comments : <br/>
 5. insult<br/>
 6. identity_hate<br/>
 <br/>
-It predicts <b>probability of toxicity</b> for above defined classes.
+It predicts <b>probability of toxicity</b> for above defined classes. <br/>
 Download train/test data from here : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data <br/>
 <br/>
 
